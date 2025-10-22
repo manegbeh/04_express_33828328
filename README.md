@@ -38,8 +38,12 @@ Running the App
 
 Example Routes
 	•	http://localhost:8000/about
+	
 	•	http://localhost:8000/contact
+	
 	•	http://localhost:8000/date
+	
 	•	http://localhost:8000/welcome/Mercedes
+	
 	•	http://localhost:8000/chain
   
